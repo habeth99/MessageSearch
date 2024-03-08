@@ -14,7 +14,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-            TextField("Search Messages", text: /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Value@*/.constant("")/*@END_MENU_TOKEN@*/)
+<<<<<<< HEAD
+=======
+>>>>>>> d86ccc3c20f4665f8915f683fc175473b3775280
         }
         .padding()
     }
